@@ -1,0 +1,24 @@
+# Node modules
+my-medusa-store/node_modules/
+my-medusa-store-storefront/node_modules/
+
+# Build and cache files
+my-medusa-store/build/
+my-medusa-store-storefront/.next/
+my-medusa-store-storefront/out/
+
+# Environment variables
+my-medusa-store/.env
+my-medusa-store-storefront/.env
+
+# Logs
+my-medusa-store/npm-debug.log*
+my-medusa-store/yarn-debug.log*
+my-medusa-store/yarn-error.log*
+my-medusa-store-storefront/npm-debug.log*
+my-medusa-store-storefront/yarn-debug.log*
+my-medusa-store-storefront/yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
